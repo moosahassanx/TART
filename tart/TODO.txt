@@ -1,0 +1,2 @@
+- right click on Details to show mock details about the tree item you're viewing (just make it all the same)
+- tab renaming (double-click to put cursor on textbox on the tab and then rename)
